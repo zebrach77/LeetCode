@@ -1,2 +1,2 @@
-## This is a repo for my LeetCode tasks.
-I don't know what else to write here)))
+## This is a repo for some of my LeetCode tasks.
+### Проект Заброшен!
